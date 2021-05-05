@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://khushboosinghrecs.github.io/csb-ywt7o/static/css/main.397b89e0.chunk.css",
+    "main.js": "https://khushboosinghrecs.github.io/csb-ywt7o/static/js/main.30e2eecf.chunk.js",
+    "main.js.map": "https://khushboosinghrecs.github.io/csb-ywt7o/static/js/main.30e2eecf.chunk.js.map",
+    "runtime-main.js": "https://khushboosinghrecs.github.io/csb-ywt7o/static/js/runtime-main.49ed6777.js",
+    "runtime-main.js.map": "https://khushboosinghrecs.github.io/csb-ywt7o/static/js/runtime-main.49ed6777.js.map",
+    "static/js/2.cf72f4ee.chunk.js": "https://khushboosinghrecs.github.io/csb-ywt7o/static/js/2.cf72f4ee.chunk.js",
+    "static/js/2.cf72f4ee.chunk.js.map": "https://khushboosinghrecs.github.io/csb-ywt7o/static/js/2.cf72f4ee.chunk.js.map",
+    "index.html": "https://khushboosinghrecs.github.io/csb-ywt7o/index.html",
+    "static/css/main.397b89e0.chunk.css.map": "https://khushboosinghrecs.github.io/csb-ywt7o/static/css/main.397b89e0.chunk.css.map",
+    "static/js/2.cf72f4ee.chunk.js.LICENSE.txt": "https://khushboosinghrecs.github.io/csb-ywt7o/static/js/2.cf72f4ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49ed6777.js",
+    "static/js/2.cf72f4ee.chunk.js",
+    "static/css/main.397b89e0.chunk.css",
+    "static/js/main.30e2eecf.chunk.js"
+  ]
+}
